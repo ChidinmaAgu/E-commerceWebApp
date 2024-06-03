@@ -157,11 +157,11 @@ function Navbar() {
         <div className={styles["details-content"]}>
           <div className={styles["icon-txt"]}>
             <FiPhone className={styles.icon} />
-            <h6 className={styles.txt}>(704) 787-2574</h6>
+            <h6 className={styles.txt}>(908) 0893-304</h6>
           </div>
           <div className={styles["icon-txt"]}>
             <FiMail className={styles.icon} />
-            <h6 className={styles.txt}>favournzeh1@gmail.com</h6>
+            <h6 className={styles.txt}>Chidinmakiara@gmail.com</h6>
           </div>
         </div>
         <div className={styles["details-content"]}>
